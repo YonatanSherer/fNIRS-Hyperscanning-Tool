@@ -98,10 +98,6 @@ Sample folder can be found in test directory on this repository.
 - Graph metrics (.csv)  
 - PDF reports with auto-generated interpretation  
 
-## 📘 License
-
-MIT License
-
 ## 👤 Author
 
 **Yonatan Sherer**  
@@ -111,4 +107,4 @@ Capstone Project, B.Sc. Software Engineering
 
 ### 🧠 Acknowledgments
 
-Thanks to the neuroscience community and academic mentors for supporting this project.
+Thanks to the neuroscience community and academic mentor Anat Dahan for supporting this project.
